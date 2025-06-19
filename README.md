@@ -5,22 +5,23 @@
 
 <p align="left"> <a href="https://twitter.com/raoyaswantha" target="blank"><img src="https://img.shields.io/twitter/follow/raoyaswantha?logo=twitter&style=for-the-badge" alt="raoyaswantha" /></a> </p>
 
-- 🔭 I’m currently working on **DataSage: Autonomous AI Agent for Intelligent Web Data Extraction**
+- 🔭 I’m currently working on **Autonomous AI Agent for Intelligent Web Data Extraction**
 
 - 🌱 I’m currently learning **AWS Cloud, Next.js, and Prompt Engineering for LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yaswantharao05?tab=repositories](https://github.com/yaswantharao05?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/yaswantharao05?tab=repositories)
 
-- 💬 Ask me about **ReactJS, Python, and AI/ML model integration**
+- 💬 Ask me about **ReactJS, Python, and building AI agents with LLMs & GenAI frameworks**
 
-- 📫 How to reach me **yaswanthaparagada@gmail.com**
+- 📫 How to reach me [My Gmail](yaswanthaparagada@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raoyaswantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raoyaswantha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yaswantharao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswantharao" height="30" width="40" /></a>
-<a href="https://instagram.com/heyrao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyrao_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yaswantharao05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaswantharao05" height="30" width="40" /></a>
+<a href="https://instagram.com/heyrao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyrao_" height="30" width="40" /></a> 
+<!-- <a href="https://www.leetcode.com/yaswantharao05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaswantharao05" height="30" width="40" /></a> -->
 <a href="https://www.hackerearth.com/@yaswantharao5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yaswantharao5" height="30" width="40" /></a>
 </p>
 
