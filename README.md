@@ -98,17 +98,17 @@
 
 # <h3 align="left">📊 GitHub Stats:</h3>
 
-<a href="https://github.com/yaswantharao05/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaswantharao05&show_icons=true&locale=en" />
-</a>
-<a href="https://github.com/yaswantharao05/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&layout=compact&langs_count=8&card_width=280&hide_progress=true" />
-</a>
-
+<p>
+  <a href="https://github.com/yaswantharao05/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaswantharao05&show_icons=true&locale=en" />
+  </a>
+  <a href="https://github.com/yaswantharao05/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&layout=compact&langs_count=8&card_width=280&hide_progress=true" />
+  </a>
+ </p>
 <!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="yaswantharao05" />
 </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswantharao05&show_icons=true&locale=en" alt="yaswantharao05" /></p>
  -->
  <br/>
