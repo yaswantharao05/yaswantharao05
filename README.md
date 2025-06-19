@@ -113,7 +113,7 @@
  -->
  
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05&card_width=360" alt="yaswantharao05" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05&" alt="yaswantharao05" />
  </p>
 
 <p align="center">
