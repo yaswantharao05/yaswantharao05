@@ -111,7 +111,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswantharao05&show_icons=true&locale=en" alt="yaswantharao05" /></p>
  -->
- 
+ <br/>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05&" alt="yaswantharao05" />
  </p>
