@@ -98,11 +98,18 @@
 
 # <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="yaswantharao05" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="yaswantharao05" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05&" alt="yaswantharao05" />
+</a>
+
+<p></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswantharao05&show_icons=true&locale=en" alt="yaswantharao05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05&" alt="yaswantharao05" /></p>
+<p></p>
 
 
 <p align="center">
