@@ -103,7 +103,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaswantharao05&show_icons=true&locale=en" />
   </a>
   <a href="https://github.com/yaswantharao05/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&layout=compact&langs_count=8&card_width=280&hide_progress=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&layout=compact&langs_count=8&card_width=280" />
   </a>
  </p>
 <!--<p>
