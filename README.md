@@ -105,6 +105,7 @@
   <a href="https://github.com/yaswantharao05/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&layout=compact&langs_count=8&card_width=280&hide_progress=true" />
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yaswantharao05" alt="GitHub Streak" /></a>
  </p>
 <!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantharao05&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="yaswantharao05" />
