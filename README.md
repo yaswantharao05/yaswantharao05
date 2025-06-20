@@ -116,7 +116,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05" alt="yaswantharao05" />
  </p>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=yaswantharao05)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaswantharao05&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
