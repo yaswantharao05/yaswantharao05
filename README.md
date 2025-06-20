@@ -117,6 +117,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05" alt="Streak-stats" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=yaswantharao05&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yaswantharao05&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantharao05&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yaswantharao05&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
