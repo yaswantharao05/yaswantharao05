@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ReactJS, Python, and building AI agents with LLMs & GenAI frameworks**
 
-- 📫 How to reach me **![My Gmail](mailto:yaswanthaparagada@gmail.com)**
+- 📫 How to reach me **yaswanthaparagada@gmail.com**
 
 
 # <h3 align="left">🤝 Connect with me:</h3>
