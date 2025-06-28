@@ -67,7 +67,7 @@
  <br/>
  
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05" alt="Streak-stats" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswantharao05" alt="Streak-stats" /> -->
 </p>
 
 <p align="center">
